@@ -1,2 +1,2 @@
 # test01
-Just testing .. again.. 
+This repo is used to follow Shayhowe's tutorial on HTML and CSS.
